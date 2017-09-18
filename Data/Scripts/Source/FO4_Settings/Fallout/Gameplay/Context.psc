@@ -1,6 +1,6 @@
 Scriptname Fallout:Gameplay:Context extends Papyrus:Project:Context
 import Papyrus:Compatibility:External
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 import Papyrus:VersionType
 
 UserLog Log

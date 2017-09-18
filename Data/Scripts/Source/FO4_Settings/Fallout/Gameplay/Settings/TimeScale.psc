@@ -1,5 +1,5 @@
 Scriptname Fallout:Gameplay:Settings:TimeScale extends Terminal
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 UserLog Log
 

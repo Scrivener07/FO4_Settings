@@ -1,5 +1,5 @@
 Scriptname Fallout:Gameplay:Settings:GMST extends Terminal
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 ; This terminal will display the defined GMST values.
 
